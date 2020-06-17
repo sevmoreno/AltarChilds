@@ -1,0 +1,77 @@
+/* 
+  Localizable.strings
+  Favorday
+
+  Created by Juan Moreno on 4/16/20.
+  Copyright © 2020 Juan Moreno. All rights reserved.
+*/
+"together" = "Juntos";
+" in the same" = " en un mismo";
+" Spirit" = " Espíritu";
+"Sign Up" = "Regístrate";
+"Log in" = "Ingresar";
+"You need your email & password to access Altar." = "Necesitas una dirección de correo y clave para ingresar";
+"Creating account ... " = "Creando cuenta ...";
+"Password not matching" = "Palabra clave no concuerda";
+"Password" = "Palabra Clave";
+"Password validation" = "Validación palabra clave";
+"Name" = "Nombre";
+"Email" = "Correo electrónico";
+"The email address is badly formatted." = "El Correo electrónico esta mal formateado.";
+"Sign in" = "Crear cuenta";
+"Your email" = "Correo electrónico";
+
+"The email address is badly formatted." = "El Correo electrónico esta mal formateado.";
+"Forgot your password?" = "¿Olvido su Palabra Clave?";
+"I'm using Altar app" = "Estoy usando Altar App";
+" is using Altar app." = " estoy usando Altar App";
+"Log Out" = "Cerrar sesión";
+"Edit Church Profile" = "Editar perfíl de iglesia";
+"Developer Info" = "Información del desarollador";
+"Share App" = "Compartir aplicación";
+"My Church" = "Mi Iglesia";
+"Edit Church Profile" = "Editar perfil de iglesia";
+"Edit User Profile" = "Editar perfil de usuario";
+"Settings" = "Ajustes";
+"Update" = "Actualizar";
+"Password updated" = "Palabra clave actualizada";
+" Praying " = " Orando ";
+"Delete" = "Eliminar";
+"second" = "segundo";
+"min" = "min";
+"hour" = "hora";
+"day" = "día";
+"week" = "semana";
+"month" = "mes";
+" ago" = " atrás";
+"+ Prayer" = "+ oración";
+"Comments" = "Comentarios";
+"Enter Comment" = "Igresar comentario";
+"Submit" = "Enviar";
+"Done" = "Listo";
+"Post" = "Enviar";
+"What is your prayer?" = "¿Cuál es tu oración?";
+"Say something about this photo ..." = "Puedes agregar texto a tu foto ...";
+"All your event in one place" = "Todos los eventos en un mismo lugar";
+"Back" = "Atraz";
+"Add your devotional here..." = "Agregar su devocional aquí";
+"Change title here ..." = "Cambia el titulo aquí …";
+"+ Event" = "+ Evento";
+"Loading audio file ..." = "Cargando audio ...";
+"Select Channel" = "Seleccionar Canal";
+"Your church is connected to this channel" = "Tu iglesia esta conectada a este canal";
+"Loading ..." = "Cargando ...";
+"Playing ...." = "Ejecutando ....";
+"Select Channel" = "Seleccionar Canal";
+"Add your event here..." = "Agregar evento aquí...";
+"Change title here ..." = "Cambiar título aquí ...";
+"Video Devotional" =  "Devocional en video";
+"Text Devotional" = "Devocional en texto";
+"Paste a Youtube link or a keyword to search." = "Pega aquí tu link a Youbube o una palabra clave a buscar.";
+"Devotional video title" = "Título del devocional en video";
+"Change background" = "Cambiar fondo";
+"Delete" = "Borrar";
+"Add Event" = "Agregar Evento";
+"Add Live Video Stream" = "Agregar Video en Vivo";
+"Live video title" = "Título del video en Vivo";
+"Touch and hold the red button to record audio message" = "Manten presionado el botón rojo para grabar un mensaje";
